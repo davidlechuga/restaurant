@@ -1,0 +1,143 @@
+
+.row_information{
+    margin: 50px;
+}
+.soap_angeles{
+    width: 100%;
+}
+
+.soap_angeles_rounded {
+    width: 80%;
+}
+
+.roboto_h1{
+     font-family: 'Roboto', sans-serif;
+      font-size: 40px;
+
+}
+.roboto_h2{
+     font-family: 'Roboto', sans-serif;
+     font-size: 40px;
+}
+.roboto_h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 4px;        
+}
+
+.roboto_h4{
+   font-family: 'Roboto', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   letter-spacing: 4px;     
+}
+
+.roboto_h5{
+   font-family: 'Roboto', sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   letter-spacing: 4px;     
+}
+
+#bookbtn{
+    font-size: 20px;
+}
+
+.stars{
+    width: 15%;
+}
+
+.soap_angeles_desc{
+    width: 100%;
+}
+
+.page_Book{
+    font-family: 'Roboto', sans-serif;
+   font-size: 26px;
+   font-weight: 100;
+   letter-spacing: 4px; 
+}
+
+
+@media (min-width: 576px) { 
+
+    .row_information{
+        margin: 50px;
+    }
+    .soap_angeles{
+        width: 100%;
+    }
+
+    .soap_angeles_rounded {
+        width: 50%;
+    }
+
+    .roboto_h1{
+        font-family: 'Roboto', sans-serif;
+        font-size: 60px;
+
+    }
+    .roboto_h2{
+        font-family: 'Roboto', sans-serif;
+        font-size: 40px;
+    }
+    .roboto_h3{
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        letter-spacing: 4px;        
+    }
+
+    .roboto_h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: 4px;     
+    }   
+
+    #bookbtn{
+    font-size: 35px;
+    }  
+    .stars {
+    width: 6%;
+    }
+ }
+
+
+
+
+@media (min-width: 992px) { 
+
+
+.roboto_h1{
+     font-family: 'Roboto', sans-serif;
+      font-size: 84px;
+
+}
+.roboto_h2{
+     font-family: 'Roboto', sans-serif;
+     font-size: 40px;
+}
+.roboto_h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 4px;        
+}
+
+.roboto_h4 {
+   font-family: 'Roboto', sans-serif;
+   font-size: 25px;
+   font-weight: 100;
+   letter-spacing: 4px;     
+}
+
+.moneysp{
+    font-weight: 900;
+    font-family: Roboto;
+    font-size: 34px
+}
+
+}
+
