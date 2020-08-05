@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 //imagenes
-import pexe from './imagenes/pexe.jpg'
+import pexe from './imagenes/pex.jpg'
 import Person1 from './imagenes/person1.jpeg'
 import star from '../../icons/estrella.svg'
 import star1 from '../../icons/estrella_1.svg'
