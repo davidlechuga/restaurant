@@ -4,6 +4,7 @@
 }
 .soap_angeles{
     width: 100%;
+    background-size: cover;
 }
 
 .soap_angeles_rounded {
@@ -67,6 +68,8 @@
     }
     .soap_angeles{
         width: 100%;
+        background-size: cover;
+
     }
 
     .soap_angeles_rounded {
