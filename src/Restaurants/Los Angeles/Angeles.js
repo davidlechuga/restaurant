@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 //imagenes
-import Soap from './imagenes/soap.jpg'
+import pexe from './imagenes/pexe.jpg'
 import Person1 from './imagenes/person1.jpeg'
 import star from '../../icons/estrella.svg'
 import star1 from '../../icons/estrella_1.svg'
@@ -17,7 +17,7 @@ class Angeles extends Component {
         return (
             <Fragment>
                 <div className="row">
-                    <img className="soap_angeles" src={Soap} alt="angeles-soap" />
+                    <img className="soap_angeles" src={pexe} alt="angeles-soap" />
                 </div>
                 <div className="row row_information">
                     <h1 className="roboto_h1 mr-3">
